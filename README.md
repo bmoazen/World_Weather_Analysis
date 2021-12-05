@@ -4,5 +4,5 @@ In this project, we were tasked with creating an application that looks at weath
 <br />
 # Included Files
 **Weather_Database** - contains the python code that generates the current weather data for each randomly-chosen city as well as the .csv file with the city data results <br />
-**Vacation_Search** - contains the python code that prompts the user for minimum and maximum preferred temperatures, looks for nearby hotels for each of the randomly-chosen cities that fit the user's criteria, and generates a heatmap with markers for each hotel.  Also included is a .csv file with info for an example of a min and max high temperature of 50 and 80.
+**Vacation_Search** - contains the python code that prompts the user for minimum and maximum preferred temperatures, looks for nearby hotels for each of the randomly-chosen cities that fit the user's criteria, and generates a heatmap with markers for each hotel.  Also included is a .csv file with info for an example of a min and max high temperature of 50 and 80.<br />
 **Vaction_Itinerary** - contains python code to create an itinerary of four cities and display a map with driving directions to each city.
